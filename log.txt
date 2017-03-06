@@ -1,0 +1,28 @@
+Mar 05, 2017 11:21:35 PM application.Main main
+WARNING: warning msg
+Mar 05, 2017 11:21:35 PM application.Main main
+SEVERE: warning severe
+Mar 05, 2017 11:23:17 PM application.Main main
+WARNING: warning msg
+Mar 05, 2017 11:23:17 PM application.Main main
+SEVERE: warning severe
+Mar 05, 2017 11:23:17 PM application.Main main
+INFO: info msg
+Mar 05, 2017 11:33:06 PM application.Main main
+WARNING: warning msg
+Mar 05, 2017 11:33:06 PM application.Main main
+SEVERE: warning severe
+Mar 05, 2017 11:33:06 PM application.Main main
+INFO: info msg
+Mar 05, 2017 11:35:38 PM application.Main main
+WARNING: warning msg
+Mar 05, 2017 11:35:38 PM application.Main main
+SEVERE: warning severe
+Mar 05, 2017 11:35:38 PM application.Main main
+INFO: info msg
+Mar 05, 2017 11:35:53 PM application.Main main
+WARNING: warning msg
+Mar 05, 2017 11:35:53 PM application.Main main
+SEVERE: warning severe
+Mar 05, 2017 11:35:53 PM application.Main main
+INFO: info msg
